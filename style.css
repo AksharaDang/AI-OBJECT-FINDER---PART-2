@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+.heading{
+    color:white;
+    width: 100%;
+    font-size:25px;
+}
+#h3{
+    font-size: 18px;
+    color: black;
+}
+#h4{
+    margin-top: 20px;
+    color: black;
+}
+#input{
+    width: 35%;
+    font-size: 15px;
+}
+
+#start,#answer,#status{
+    font-size: 18px;
+
+}
+
+canvas{
+    margin-top:130px;
+    background-color: blue;
+    border-color: white;
+    box-shadow: 5px 18px 15px green;
+}
